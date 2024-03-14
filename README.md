@@ -1,4 +1,4 @@
-![메인](https://github.com/springbootProejct/hopeProject/assets/104418414/1ef608bb-a4ef-4a93-b943-0941763408b5)
+![image](https://github.com/springbootProejct/hopeProject/assets/104418414/49b77c2b-46d4-47ee-9a57-79e0902970a6)
 # 😊 : 희망의 조각프로젝트 소개
 
 
@@ -19,7 +19,7 @@
 - DB : Oracle , Mybatis
 - 버전 및 이슈관리 : Github, Github Desktop , Git
 - 협업 툴 : Discord, Notion, Slack
-- 서비스 배포 환경 : AWS 
+- 서비스 배포 환경 : AWS EC2 , RDB
 
 <br>
 
@@ -116,6 +116,12 @@
 - 전체 개발 기간 : 2024-02-16 ~ 2024-03-13
 - UI 구현 : 2024-02-16 ~ 2022-02-24
 - 기능 구현 : 2024-02-24 ~ 2024-03-13
+
+<br>
+
+
+### AWS EC2 RDB 배포성공
+![image](https://github.com/springbootProejct/hopeProject/assets/104418414/f0519d4d-0103-40c3-8bec-964c415a802f)
 
 
 ### ERD
